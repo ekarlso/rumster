@@ -1,0 +1,7 @@
+pbr
+
+falcon==0.2.0b2
+oslo.db
+oslo.log
+oslo.utils
+sqlalchemy
